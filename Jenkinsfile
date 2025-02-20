@@ -2,24 +2,24 @@ pipeline {
     agent any
 
     stages {
-        stage('Clone Repo') {
-            steps {
-                git 'https://github.com/YOUR_USERNAME/YOUR_REPO.git'
-            }
-        }
         stage('Build') {
             steps {
                 echo 'Building...'
+                sh 'mvn clean package'  // Adjust for your build command
             }
         }
+
         stage('Test') {
             steps {
                 echo 'Running tests...'
+                sh 'mvn test'  // Runs Maven tests
             }
         }
+
         stage('Deploy') {
             steps {
-                echo 'Deploying application...'
+                echo 'Deploying...'
+                // Add Docker or deployment steps here
             }
         }
     }
