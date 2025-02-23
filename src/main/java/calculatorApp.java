@@ -14,27 +14,27 @@ public class calculatorApp {
         System.out.print("Enter a second number: ");
         double num2 = scanner.nextDouble();
 
-        double answer;
+        double result;
 
         switch (operator) {
             case '+':
-                answer = add(num1, num2);
+                result = add(num1, num2);
                 break;
             case '-':
-                answer = subtract(num1, num2);
+                result = subtract(num1, num2);
                 break;
             case '*':
-                answer = multiply(num1, num2);
+                result = multiply(num1, num2);
                 break;
             case '/':
-                answer = divide(num1, num2);
+                result = divide(num1, num2);
                 break;
             default:
                 System.out.println("Invalid.");
                 return;
         }
 
-        System.out.println(num1 + " + " + num2 + " = " + answer);
+        System.out.println(num1 + " + " + num2 + " = " + result);
         scanner.close();
     }
 
