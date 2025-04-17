@@ -1,60 +1,64 @@
-import java.util.Scanner;
+import static spark.Spark.*;
+import java.util.logging.Logger;
+import java.util.logging.Level;
+import java.util.logging.FileHandler;
+import java.util.logging.SimpleFormatter;
+import java.io.IOException;
 
 public class calculatorApp {
 
+    private static final Logger logger = Logger.getLogger(calculatorApp.class.getName());
+    private static final String REGION = "us-west"; // or "us-east"
+
+    static {
+        try {
+            FileHandler fileHandler = new FileHandler("calculator.log", true); // append mode
+            fileHandler.setFormatter(new SimpleFormatter());
+            logger.addHandler(fileHandler);
+            logger.setUseParentHandlers(true); // also log to console
+        } catch (IOException e) {
+            System.err.println("Failed to set up file logger: " + e.getMessage());
+        }
+    }
+
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        port(3000); // Spark will listen on this port
 
-        System.out.print("Enter a number: ");
-        double num1 = scanner.nextDouble();
+        get("/calculate", (req, res) -> {
+            try {
+                double num1 = Double.parseDouble(req.queryParams("a"));
+                double num2 = Double.parseDouble(req.queryParams("b"));
+                char operator = req.queryParams("op").charAt(0);
 
-        System.out.print("Enter a math operator: (+) (-) (*) (/) ");
-        char operator = scanner.next().charAt(0);
+                double result;
 
-        System.out.print("Enter a second number: ");
-        double num2 = scanner.nextDouble();
+                switch (operator) {
+                    case '+': result = add(num1, num2); break;
+                    case '-': result = subtract(num1, num2); break;
+                    case '*': result = multiply(num1, num2); break;
+                    case '/': result = divide(num1, num2); break;
+                    default: return "Invalid operator.";
+                }
 
-        double result;
+                String userId = req.queryParams("user") != null ? req.queryParams("user") : "guest";
+                String ip = req.ip();
+                String timestamp = java.time.Instant.now().toString();
 
-        switch (operator) {
-            case '+':
-                result = add(num1, num2);
-                break;
-            case '-':
-                result = subtract(num1, num2);
-                break;
-            case '*':
-                result = multiply(num1, num2);
-                break;
-            case '/':
-                result = divide(num1, num2);
-                break;
-            default:
-                System.out.println("Invalid.");
-                return;
-        }
+                logger.log(Level.INFO, String.format(
+                        "region=%s userId=%s ip=%s timestamp=%s operation=%s a=%.2f b=%.2f result=%.2f",
+                        REGION, userId, ip, timestamp, operator, num1, num2, result
+                ));
 
-        System.out.println(num1 + " + " + num2 + " = " + result);
-        scanner.close();
+                return num1 + " " + operator + " " + num2 + " = " + result;
+            } catch (Exception e) {
+                logger.log(Level.SEVERE, "Error occurred: " + e.getMessage());
+                return "Error: " + e.getMessage();
+            }
+        });
     }
 
-    public static double add(double a, double b) {
-        return a + b;
-    }
-
-    public static double subtract(double a, double b) {
-        return a - b;
-    }
-
-    public static double multiply(double a, double b) {
-        return a * b;
-    }
-
-    public static double divide(double a, double b) {
-        if (b == 0) {
-            System.out.println("Error: Can't divide by zero.");
-            return Double.NaN;
-        }
-        return a / b;
-    }
+    public static double add(double a, double b) { return a + b; }
+    public static double subtract(double a, double b) { return a - b; }
+    public static double multiply(double a, double b) { return a * b; }
+    public static double divide(double a, double b) { return b == 0 ? Double.NaN : a / b; }
 }

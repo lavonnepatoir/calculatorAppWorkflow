@@ -8,11 +8,26 @@ pipeline {
             }
         }
 
-        stage('Build') {
-            steps {
-                echo 'Building application...'
-                bat 'mvn clean package'  // Runs Maven to build the project
+        stage('Build App') {
+              steps {
+                echo 'Building Java project with Maven...'
+                sh 'mvn clean package'
+              }
             }
+
+            stage('Run JMeter Load Test') {
+              steps {
+                echo 'Running JMeter load test...'
+                sh 'jmeter -n -t "Calculator Test Plan.jmx" -l results.jtl'
+              }
+            }
+
+            stage('Archive JMeter Results') {
+              steps {
+                archiveArtifacts artifacts: 'results.jtl', fingerprint: true
+              }
+            }
+          }
         }
 
         stage('Test') {
