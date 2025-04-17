@@ -5,14 +5,14 @@ pipeline {
     stage('Build App') {
       steps {
         echo 'Building Java project with Maven...'
-        sh 'mvn clean package'
+        bat 'mvn clean package'
       }
     }
 
     stage('Run JMeter Load Test') {
       steps {
         echo 'Running JMeter load test...'
-        sh 'jmeter -n -t "Calculator Test Plan.jmx" -l results.jtl'
+        bat 'jmeter -n -t "Calculator Test Plan.jmx" -l results.jtl'
       }
     }
 
