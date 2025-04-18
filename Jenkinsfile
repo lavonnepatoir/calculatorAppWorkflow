@@ -16,16 +16,17 @@ node {
     }
 
     stage('Deploy to Kubernetes (West)') {
-        echo 'Deploying to us-west cluster...'
-        bat 'kubectl apply -f k8s/calculator-west-deployment.yaml'
-        bat 'kubectl apply -f k8s/calculator-west-service.yaml'
+        echo 'Simulating deployment to us-west cluster...'
+        bat 'kubectl config use-context us-west'
+        bat 'kubectl create deployment calculator-west --image=myrepo/calculator-app:latest --port=3000 --namespace=us-west --dry-run=client -o yaml'
+        bat 'kubectl expose deployment calculator-west --type=NodePort --port=80 --target-port=3000 --name=calculator-west-service --namespace=us-west --dry-run=client -o yaml'
     }
 
     stage('Deploy to Kubernetes (East)') {
-        echo 'Deploying to us-east cluster...'
+        echo 'Simulating deployment to us-east cluster...'
         bat 'kubectl config use-context us-east'
-        bat 'kubectl apply -f k8s/calculator-east-deployment.yaml'
-        bat 'kubectl apply -f k8s/calculator-east-service.yaml'
+        bat 'kubectl create deployment calculator-east --image=myrepo/calculator-app:latest --port=3000 --namespace=us-east --dry-run=client -o yaml'
+        bat 'kubectl expose deployment calculator-east --type=NodePort --port=80 --target-port=3000 --name=calculator-east-service --namespace=us-east --dry-run=client -o yaml'
     }
 
 }
