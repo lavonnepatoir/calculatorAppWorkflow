@@ -210,3 +210,7 @@ Apr 18, 2025 12:49:31 PM calculatorApp lambda$main$0
 SEVERE: Error occurred: ? Simulated crash triggered!
 Apr 18, 2025 12:50:04 PM calculatorApp lambda$main$0
 SEVERE: Error occurred: ? Simulated crash triggered!
+Apr 19, 2025 11:09:51 AM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=[0:0:0:0:0:0:0:1] timestamp=2025-04-19T15:09:51.846341200Z operation=/ a=5.00 b=5.00 result=1.00
+Apr 19, 2025 11:22:49 AM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=[0:0:0:0:0:0:0:1] timestamp=2025-04-19T15:22:48.993860900Z operation=+ a=2.00 b=2.00 result=4.00

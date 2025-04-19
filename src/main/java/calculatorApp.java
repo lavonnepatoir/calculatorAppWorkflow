@@ -68,21 +68,11 @@ public class calculatorApp {
         <body>
             <h2>Simple Calculator</h2>
             <input type="text" id="a" placeholder="Enter first number"><br><br>
-            <input type="text" id="b" placeholder="Enter second number"><br><br>
             <input type="text" id="op" placeholder="Enter operator (+ - * /)"><br><br>
+            <input type="text" id="b" placeholder="Enter second number"><br><br>
             <button onclick="calculate()">=</button>
             <p id="result"></p>
-            <script>
-                function calculate() {
-                    const a = document.getElementById('a').value;
-                    const b = document.getElementById('b').value;
-                    const op = document.getElementById('op').value;
-                    fetch(`/calculate?a=${a}&b=${b}&op=${op}`)
-                        .then(response => response.text())
-                        .then(data => document.getElementById('result').innerText = data)
-                        .catch(err => document.getElementById('result').innerText = "Error: " + err);
-                }
-            </script>
+            <script> function calculate() { const a = document.getElementById('a').value; const b = document.getElementById('b').value; const op = document.getElementById('op').value; const url = `/calculate?a=${encodeURIComponent(a)}&b=${encodeURIComponent(b)}&op=${encodeURIComponent(op)}`; fetch(url) .then(response => response.text()) .then(data => { document.getElementById('result').innerText = data; }) .catch(error => { document.getElementById('result').innerText = "Error: " + error; }); } </script>
         </body>
         </html>
     """;
