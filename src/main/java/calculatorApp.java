@@ -30,6 +30,10 @@ public class calculatorApp {
                 double num2 = Double.parseDouble(req.queryParams("b"));
                 char operator = req.queryParams("op").charAt(0);
 
+                //if (num1 == 999 && num2 == 999) {
+                    //throw new RuntimeException("Simulated crash triggered!");
+                //}
+
                 double result;
 
                 switch (operator) {
@@ -55,6 +59,35 @@ public class calculatorApp {
                 return "Error: " + e.getMessage();
             }
         });
+
+        get("/", (req, res) -> {
+            res.type("text/html");
+            return """
+        <html>
+        <head><title>Calculator</title></head>
+        <body>
+            <h2>Simple Calculator</h2>
+            <input type="text" id="a" placeholder="Enter first number"><br><br>
+            <input type="text" id="b" placeholder="Enter second number"><br><br>
+            <input type="text" id="op" placeholder="Enter operator (+ - * /)"><br><br>
+            <button onclick="calculate()">=</button>
+            <p id="result"></p>
+            <script>
+                function calculate() {
+                    const a = document.getElementById('a').value;
+                    const b = document.getElementById('b').value;
+                    const op = document.getElementById('op').value;
+                    fetch(`/calculate?a=${a}&b=${b}&op=${op}`)
+                        .then(response => response.text())
+                        .then(data => document.getElementById('result').innerText = data)
+                        .catch(err => document.getElementById('result').innerText = "Error: " + err);
+                }
+            </script>
+        </body>
+        </html>
+    """;
+        });
+
     }
 
     public static double add(double a, double b) { return a + b; }
