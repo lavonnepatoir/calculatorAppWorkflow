@@ -15,14 +15,14 @@ public class calculatorApp {
             FileHandler fileHandler = new FileHandler("calculator.log", true); // append mode
             fileHandler.setFormatter(new SimpleFormatter());
             logger.addHandler(fileHandler);
-            logger.setUseParentHandlers(true); // also log to console
+            logger.setUseParentHandlers(true);
         } catch (IOException e) {
             System.err.println("Failed to set up file logger: " + e.getMessage());
         }
     }
 
     public static void main(String[] args) {
-        port(3000); // Spark will listen on this port
+        port(3000); //Check port usage!!
 
         get("/calculate", (req, res) -> {
             try {
@@ -30,9 +30,9 @@ public class calculatorApp {
                 double num2 = Double.parseDouble(req.queryParams("b"));
                 char operator = req.queryParams("op").charAt(0);
 
-                //if (num1 == 999 && num2 == 999) {
-                    //throw new RuntimeException("Simulated crash triggered!");
-                //}
+                if (num1 == 999 && num2 == 999) {
+                    throw new RuntimeException("Simulated crash in the works!");
+                }
 
                 double result;
 
@@ -55,9 +55,10 @@ public class calculatorApp {
 
                 return num1 + " " + operator + " " + num2 + " = " + result;
             } catch (Exception e) {
-                logger.log(Level.SEVERE, "Error occurred: " + e.getMessage());
+                logger.log(Level.SEVERE, "Error occurred: " + e.getMessage(), e);
                 return "Error: " + e.getMessage();
             }
+
         });
 
         get("/", (req, res) -> {

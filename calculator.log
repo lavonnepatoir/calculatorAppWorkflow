@@ -214,3 +214,1033 @@ Apr 19, 2025 11:09:51 AM calculatorApp lambda$main$0
 INFO: region=us-west userId=guest ip=[0:0:0:0:0:0:0:1] timestamp=2025-04-19T15:09:51.846341200Z operation=/ a=5.00 b=5.00 result=1.00
 Apr 19, 2025 11:22:49 AM calculatorApp lambda$main$0
 INFO: region=us-west userId=guest ip=[0:0:0:0:0:0:0:1] timestamp=2025-04-19T15:22:48.993860900Z operation=+ a=2.00 b=2.00 result=4.00
+Apr 20, 2025 9:18:25 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=[0:0:0:0:0:0:0:1] timestamp=2025-04-21T01:18:25.377692400Z operation=- a=10.00 b=9.00 result=1.00
+Apr 20, 2025 9:20:40 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:40.406139100Z operation=- a=84.00 b=84.00 result=0.00
+Apr 20, 2025 9:20:40 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:40.410984900Z operation=- a=45.00 b=98.00 result=-53.00
+Apr 20, 2025 9:20:40 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:40.433004700Z operation=- a=80.00 b=77.00 result=3.00
+Apr 20, 2025 9:20:40 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:40.437667100Z operation=- a=8.00 b=10.00 result=-2.00
+Apr 20, 2025 9:20:40 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:40.543225400Z operation=- a=55.00 b=62.00 result=-7.00
+Apr 20, 2025 9:20:40 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:40.592265200Z operation=- a=5.00 b=86.00 result=-81.00
+Apr 20, 2025 9:20:40 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:40.651128400Z operation=- a=14.00 b=70.00 result=-56.00
+Apr 20, 2025 9:20:40 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:40.839820500Z operation=/ a=41.00 b=64.00 result=0.64
+Apr 20, 2025 9:20:40 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:40.862204600Z operation=/ a=51.00 b=36.00 result=1.42
+Apr 20, 2025 9:20:40 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:40.913186100Z operation=- a=57.00 b=39.00 result=18.00
+Apr 20, 2025 9:20:40 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:40.932965300Z operation=/ a=92.00 b=6.00 result=15.33
+Apr 20, 2025 9:20:41 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:41.036264100Z operation=/ a=66.00 b=65.00 result=1.02
+Apr 20, 2025 9:20:41 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:41.422484Z operation=- a=31.00 b=59.00 result=-28.00
+Apr 20, 2025 9:20:41 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:41.627535200Z operation=/ a=26.00 b=96.00 result=0.27
+Apr 20, 2025 9:20:41 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:41.702008400Z operation=/ a=89.00 b=44.00 result=2.02
+Apr 20, 2025 9:20:41 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:41.702008400Z operation=- a=66.00 b=42.00 result=24.00
+Apr 20, 2025 9:20:42 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:42.162015Z operation=/ a=74.00 b=77.00 result=0.96
+Apr 20, 2025 9:20:42 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:42.677722700Z operation=/ a=15.00 b=29.00 result=0.52
+Apr 20, 2025 9:20:43 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:43.600176800Z operation=/ a=51.00 b=14.00 result=3.64
+Apr 20, 2025 9:20:44 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:44.043801900Z operation=/ a=94.00 b=92.00 result=1.02
+Apr 20, 2025 9:20:45 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:45.393693200Z operation=- a=55.00 b=41.00 result=14.00
+Apr 20, 2025 9:20:45 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:45.405159300Z operation=- a=88.00 b=40.00 result=48.00
+Apr 20, 2025 9:20:45 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:45.405159300Z operation=- a=74.00 b=6.00 result=68.00
+Apr 20, 2025 9:20:45 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:45.429220100Z operation=- a=17.00 b=75.00 result=-58.00
+Apr 20, 2025 9:20:45 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:45.524235100Z operation=- a=25.00 b=48.00 result=-23.00
+Apr 20, 2025 9:20:45 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:45.538845500Z operation=- a=80.00 b=62.00 result=18.00
+Apr 20, 2025 9:20:45 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:45.596795100Z operation=- a=6.00 b=94.00 result=-88.00
+Apr 20, 2025 9:20:45 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:45.628675100Z operation=/ a=7.00 b=52.00 result=0.13
+Apr 20, 2025 9:20:45 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:45.631506400Z operation=/ a=96.00 b=69.00 result=1.39
+Apr 20, 2025 9:20:45 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:45.637474200Z operation=- a=42.00 b=2.00 result=40.00
+Apr 20, 2025 9:20:45 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:45.637474200Z operation=/ a=23.00 b=64.00 result=0.36
+Apr 20, 2025 9:20:45 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:45.642755300Z operation=- a=9.00 b=30.00 result=-21.00
+Apr 20, 2025 9:20:45 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:45.651926300Z operation=/ a=7.00 b=92.00 result=0.08
+Apr 20, 2025 9:20:45 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:45.681940900Z operation=- a=50.00 b=7.00 result=43.00
+Apr 20, 2025 9:20:45 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:45.683021800Z operation=/ a=84.00 b=57.00 result=1.47
+Apr 20, 2025 9:20:45 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:45.687436200Z operation=/ a=45.00 b=27.00 result=1.67
+Apr 20, 2025 9:20:45 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:45.723132300Z operation=/ a=28.00 b=62.00 result=0.45
+Apr 20, 2025 9:20:45 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:45.821871Z operation=/ a=50.00 b=80.00 result=0.63
+Apr 20, 2025 9:20:45 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:45.846943Z operation=/ a=96.00 b=81.00 result=1.19
+Apr 20, 2025 9:20:45 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:45.873828200Z operation=/ a=26.00 b=82.00 result=0.32
+Apr 20, 2025 9:20:45 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:45.914819300Z operation=- a=36.00 b=46.00 result=-10.00
+Apr 20, 2025 9:20:45 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:45.955223200Z operation=- a=50.00 b=36.00 result=14.00
+Apr 20, 2025 9:20:45 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:45.964182200Z operation=- a=96.00 b=79.00 result=17.00
+Apr 20, 2025 9:20:45 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:45.980617500Z operation=- a=50.00 b=82.00 result=-32.00
+Apr 20, 2025 9:20:45 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:45.994563Z operation=- a=3.00 b=36.00 result=-33.00
+Apr 20, 2025 9:20:46 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:46.088525900Z operation=- a=46.00 b=39.00 result=7.00
+Apr 20, 2025 9:20:46 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:46.089328500Z operation=/ a=15.00 b=14.00 result=1.07
+Apr 20, 2025 9:20:46 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:46.089328500Z operation=/ a=7.00 b=25.00 result=0.28
+Apr 20, 2025 9:20:46 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:46.104022700Z operation=- a=12.00 b=76.00 result=-64.00
+Apr 20, 2025 9:20:46 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:46.140943400Z operation=/ a=80.00 b=7.00 result=11.43
+Apr 20, 2025 9:20:46 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:46.188220900Z operation=/ a=54.00 b=89.00 result=0.61
+Apr 20, 2025 9:20:46 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:46.196667600Z operation=- a=43.00 b=5.00 result=38.00
+Apr 20, 2025 9:20:46 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:46.200522600Z operation=/ a=24.00 b=64.00 result=0.38
+Apr 20, 2025 9:20:46 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:46.268393500Z operation=- a=89.00 b=60.00 result=29.00
+Apr 20, 2025 9:20:46 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:46.269099200Z operation=- a=70.00 b=83.00 result=-13.00
+Apr 20, 2025 9:20:46 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:46.352200100Z operation=/ a=79.00 b=85.00 result=0.93
+Apr 20, 2025 9:20:46 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:46.368479600Z operation=/ a=48.00 b=94.00 result=0.51
+Apr 20, 2025 9:20:46 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:46.377461100Z operation=/ a=47.00 b=42.00 result=1.12
+Apr 20, 2025 9:20:46 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:46.498545500Z operation=/ a=26.00 b=24.00 result=1.08
+Apr 20, 2025 9:20:46 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:46.504440300Z operation=/ a=32.00 b=57.00 result=0.56
+Apr 20, 2025 9:20:46 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:46.647742600Z operation=- a=3.00 b=50.00 result=-47.00
+Apr 20, 2025 9:20:46 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:46.845688400Z operation=- a=85.00 b=21.00 result=64.00
+Apr 20, 2025 9:20:47 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:47.251261700Z operation=- a=17.00 b=77.00 result=-60.00
+Apr 20, 2025 9:20:47 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:47.273898700Z operation=- a=84.00 b=24.00 result=60.00
+Apr 20, 2025 9:20:47 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:47.306052Z operation=- a=94.00 b=75.00 result=19.00
+Apr 20, 2025 9:20:47 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:47.355928500Z operation=/ a=46.00 b=81.00 result=0.57
+Apr 20, 2025 9:20:47 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:47.396656200Z operation=/ a=6.00 b=60.00 result=0.10
+Apr 20, 2025 9:20:47 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:47.397208500Z operation=- a=69.00 b=47.00 result=22.00
+Apr 20, 2025 9:20:47 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:47.397208500Z operation=- a=24.00 b=21.00 result=3.00
+Apr 20, 2025 9:20:47 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:47.413783900Z operation=/ a=22.00 b=61.00 result=0.36
+Apr 20, 2025 9:20:47 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:47.479435200Z operation=/ a=56.00 b=67.00 result=0.84
+Apr 20, 2025 9:20:47 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:47.517909800Z operation=- a=38.00 b=4.00 result=34.00
+Apr 20, 2025 9:20:47 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:47.574294600Z operation=/ a=41.00 b=81.00 result=0.51
+Apr 20, 2025 9:20:47 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:47.612149600Z operation=- a=71.00 b=52.00 result=19.00
+Apr 20, 2025 9:20:47 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:47.715119900Z operation=- a=83.00 b=47.00 result=36.00
+Apr 20, 2025 9:20:47 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:47.766809900Z operation=/ a=24.00 b=98.00 result=0.24
+Apr 20, 2025 9:20:47 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:47.918180400Z operation=/ a=97.00 b=29.00 result=3.34
+Apr 20, 2025 9:20:47 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:47.980196200Z operation=/ a=14.00 b=15.00 result=0.93
+Apr 20, 2025 9:20:48 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:48.086315300Z operation=/ a=10.00 b=68.00 result=0.15
+Apr 20, 2025 9:20:48 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:48.137468100Z operation=- a=32.00 b=40.00 result=-8.00
+Apr 20, 2025 9:20:48 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:48.141309700Z operation=/ a=31.00 b=40.00 result=0.78
+Apr 20, 2025 9:20:48 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:48.208634800Z operation=- a=13.00 b=35.00 result=-22.00
+Apr 20, 2025 9:20:48 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:48.214166Z operation=- a=87.00 b=51.00 result=36.00
+Apr 20, 2025 9:20:48 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:48.248892600Z operation=- a=61.00 b=35.00 result=26.00
+Apr 20, 2025 9:20:48 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:48.285898100Z operation=- a=74.00 b=100.00 result=-26.00
+Apr 20, 2025 9:20:48 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:48.353347700Z operation=- a=28.00 b=72.00 result=-44.00
+Apr 20, 2025 9:20:48 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:48.373214100Z operation=/ a=55.00 b=77.00 result=0.71
+Apr 20, 2025 9:20:48 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:48.421946700Z operation=/ a=57.00 b=1.00 result=57.00
+Apr 20, 2025 9:20:48 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:48.437373200Z operation=/ a=11.00 b=88.00 result=0.13
+Apr 20, 2025 9:20:48 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:48.445451600Z operation=- a=92.00 b=42.00 result=50.00
+Apr 20, 2025 9:20:48 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:48.452442700Z operation=- a=83.00 b=48.00 result=35.00
+Apr 20, 2025 9:20:48 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:48.522428700Z operation=/ a=72.00 b=57.00 result=1.26
+Apr 20, 2025 9:20:48 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:48.533431800Z operation=/ a=51.00 b=44.00 result=1.16
+Apr 20, 2025 9:20:48 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:48.603454500Z operation=- a=43.00 b=6.00 result=37.00
+Apr 20, 2025 9:20:48 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:48.717704500Z operation=/ a=54.00 b=6.00 result=9.00
+Apr 20, 2025 9:20:48 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:48.733712800Z operation=- a=3.00 b=92.00 result=-89.00
+Apr 20, 2025 9:20:48 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:48.826625500Z operation=/ a=67.00 b=42.00 result=1.60
+Apr 20, 2025 9:20:48 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:48.841863200Z operation=/ a=38.00 b=90.00 result=0.42
+Apr 20, 2025 9:20:48 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:48.965212100Z operation=/ a=61.00 b=32.00 result=1.91
+Apr 20, 2025 9:20:49 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:20:49.002916100Z operation=/ a=83.00 b=49.00 result=1.69
+Apr 20, 2025 9:23:39 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:39.421479600Z operation=- a=73.00 b=1.00 result=72.00
+Apr 20, 2025 9:23:39 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:39.444441800Z operation=- a=98.00 b=82.00 result=16.00
+Apr 20, 2025 9:23:39 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:39.440898900Z operation=- a=83.00 b=63.00 result=20.00
+Apr 20, 2025 9:23:39 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:39.430187900Z operation=- a=15.00 b=96.00 result=-81.00
+Apr 20, 2025 9:23:39 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:39.424891100Z operation=- a=92.00 b=73.00 result=19.00
+Apr 20, 2025 9:23:39 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:39.422037800Z operation=- a=80.00 b=58.00 result=22.00
+Apr 20, 2025 9:23:39 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:39.419011800Z operation=- a=58.00 b=18.00 result=40.00
+Apr 20, 2025 9:23:39 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:39.424891100Z operation=- a=50.00 b=37.00 result=13.00
+Apr 20, 2025 9:23:39 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:39.414539500Z operation=- a=65.00 b=2.00 result=63.00
+Apr 20, 2025 9:23:39 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:39.457486600Z operation=- a=9.00 b=14.00 result=-5.00
+Apr 20, 2025 9:23:41 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:41.623000300Z operation=/ a=12.00 b=44.00 result=0.27
+Apr 20, 2025 9:23:41 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:41.848971600Z operation=/ a=18.00 b=77.00 result=0.23
+Apr 20, 2025 9:23:41 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:41.893788200Z operation=/ a=100.00 b=23.00 result=4.35
+Apr 20, 2025 9:23:41 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:41.938015300Z operation=/ a=87.00 b=66.00 result=1.32
+Apr 20, 2025 9:23:41 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:41.965731200Z operation=/ a=16.00 b=50.00 result=0.32
+Apr 20, 2025 9:23:41 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:41.967082900Z operation=/ a=21.00 b=58.00 result=0.36
+Apr 20, 2025 9:23:42 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:42.005782500Z operation=/ a=61.00 b=39.00 result=1.56
+Apr 20, 2025 9:23:42 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:42.005782500Z operation=/ a=82.00 b=67.00 result=1.22
+Apr 20, 2025 9:23:42 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:42.015618400Z operation=/ a=79.00 b=53.00 result=1.49
+Apr 20, 2025 9:23:42 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:42.015618400Z operation=/ a=13.00 b=67.00 result=0.19
+Apr 20, 2025 9:23:47 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:47.022619700Z operation=- a=86.00 b=30.00 result=56.00
+Apr 20, 2025 9:23:47 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:47.031818100Z operation=- a=10.00 b=67.00 result=-57.00
+Apr 20, 2025 9:23:47 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:47.057419Z operation=- a=64.00 b=51.00 result=13.00
+Apr 20, 2025 9:23:47 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:47.068043800Z operation=- a=59.00 b=77.00 result=-18.00
+Apr 20, 2025 9:23:47 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:47.070081500Z operation=- a=99.00 b=54.00 result=45.00
+Apr 20, 2025 9:23:47 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:47.072112800Z operation=- a=55.00 b=66.00 result=-11.00
+Apr 20, 2025 9:23:47 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:47.106414900Z operation=- a=44.00 b=18.00 result=26.00
+Apr 20, 2025 9:23:47 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:47.167282200Z operation=- a=8.00 b=50.00 result=-42.00
+Apr 20, 2025 9:23:47 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:47.179758700Z operation=- a=22.00 b=17.00 result=5.00
+Apr 20, 2025 9:23:47 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:47.179758700Z operation=- a=3.00 b=10.00 result=-7.00
+Apr 20, 2025 9:23:47 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:47.605444400Z operation=/ a=68.00 b=86.00 result=0.79
+Apr 20, 2025 9:23:47 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:47.608151900Z operation=/ a=19.00 b=46.00 result=0.41
+Apr 20, 2025 9:23:47 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:47.658382500Z operation=/ a=10.00 b=91.00 result=0.11
+Apr 20, 2025 9:23:47 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:47.658382500Z operation=/ a=67.00 b=1.00 result=67.00
+Apr 20, 2025 9:23:47 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:47.658382500Z operation=/ a=85.00 b=72.00 result=1.18
+Apr 20, 2025 9:23:47 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:47.667255200Z operation=/ a=31.00 b=48.00 result=0.65
+Apr 20, 2025 9:23:47 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:47.675452300Z operation=/ a=99.00 b=45.00 result=2.20
+Apr 20, 2025 9:23:47 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:47.702298600Z operation=/ a=46.00 b=27.00 result=1.70
+Apr 20, 2025 9:23:47 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:47.733796400Z operation=/ a=4.00 b=65.00 result=0.06
+Apr 20, 2025 9:23:47 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:47.772654600Z operation=/ a=72.00 b=10.00 result=7.20
+Apr 20, 2025 9:23:51 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:51.361034700Z operation=- a=6.00 b=97.00 result=-91.00
+Apr 20, 2025 9:23:51 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:51.364408700Z operation=- a=96.00 b=56.00 result=40.00
+Apr 20, 2025 9:23:51 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:51.414326Z operation=- a=82.00 b=83.00 result=-1.00
+Apr 20, 2025 9:23:51 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:51.448695Z operation=- a=1.00 b=29.00 result=-28.00
+Apr 20, 2025 9:23:51 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:51.446526900Z operation=- a=61.00 b=51.00 result=10.00
+Apr 20, 2025 9:23:51 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:51.474123900Z operation=- a=31.00 b=10.00 result=21.00
+Apr 20, 2025 9:23:51 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:51.483007700Z operation=- a=59.00 b=15.00 result=44.00
+Apr 20, 2025 9:23:51 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:51.516617900Z operation=- a=53.00 b=94.00 result=-41.00
+Apr 20, 2025 9:23:51 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:51.519727Z operation=- a=31.00 b=62.00 result=-31.00
+Apr 20, 2025 9:23:51 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:51.532735900Z operation=- a=10.00 b=15.00 result=-5.00
+Apr 20, 2025 9:23:52 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:52.566766300Z operation=/ a=100.00 b=93.00 result=1.08
+Apr 20, 2025 9:23:52 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:52.614215600Z operation=/ a=47.00 b=97.00 result=0.48
+Apr 20, 2025 9:23:52 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:52.615011400Z operation=/ a=32.00 b=39.00 result=0.82
+Apr 20, 2025 9:23:52 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:52.671314Z operation=/ a=32.00 b=63.00 result=0.51
+Apr 20, 2025 9:23:52 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:52.691719100Z operation=/ a=25.00 b=80.00 result=0.31
+Apr 20, 2025 9:23:52 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:52.703993300Z operation=/ a=19.00 b=72.00 result=0.26
+Apr 20, 2025 9:23:52 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:52.741043600Z operation=/ a=54.00 b=87.00 result=0.62
+Apr 20, 2025 9:23:52 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:52.813992400Z operation=/ a=67.00 b=48.00 result=1.40
+Apr 20, 2025 9:23:52 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:52.816034600Z operation=/ a=65.00 b=12.00 result=5.42
+Apr 20, 2025 9:23:52 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:23:52.899882400Z operation=/ a=73.00 b=90.00 result=0.81
+Apr 20, 2025 9:24:20 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:20.468030300Z operation=- a=94.00 b=75.00 result=19.00
+Apr 20, 2025 9:24:21 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:21.709852400Z operation=- a=1.00 b=23.00 result=-22.00
+Apr 20, 2025 9:24:21 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:21.712686200Z operation=- a=73.00 b=63.00 result=10.00
+Apr 20, 2025 9:24:21 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:21.839979400Z operation=- a=79.00 b=23.00 result=56.00
+Apr 20, 2025 9:24:21 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:21.940697300Z operation=- a=70.00 b=8.00 result=62.00
+Apr 20, 2025 9:24:22 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:22.419640600Z operation=- a=36.00 b=99.00 result=-63.00
+Apr 20, 2025 9:24:22 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:22.831968100Z operation=- a=43.00 b=11.00 result=32.00
+Apr 20, 2025 9:24:22 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:22.831968100Z operation=- a=9.00 b=18.00 result=-9.00
+Apr 20, 2025 9:24:22 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:22.882143600Z operation=- a=24.00 b=39.00 result=-15.00
+Apr 20, 2025 9:24:22 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:22.967731300Z operation=- a=90.00 b=38.00 result=52.00
+Apr 20, 2025 9:24:23 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:23.497245100Z operation=/ a=94.00 b=50.00 result=1.88
+Apr 20, 2025 9:24:23 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:23.521773900Z operation=/ a=25.00 b=68.00 result=0.37
+Apr 20, 2025 9:24:23 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:23.544394100Z operation=/ a=66.00 b=81.00 result=0.81
+Apr 20, 2025 9:24:23 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:23.545078800Z operation=/ a=20.00 b=87.00 result=0.23
+Apr 20, 2025 9:24:23 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:23.571973600Z operation=/ a=40.00 b=38.00 result=1.05
+Apr 20, 2025 9:24:23 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:23.573986600Z operation=/ a=6.00 b=22.00 result=0.27
+Apr 20, 2025 9:24:23 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:23.612773700Z operation=/ a=65.00 b=6.00 result=10.83
+Apr 20, 2025 9:24:23 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:23.638180400Z operation=/ a=60.00 b=8.00 result=7.50
+Apr 20, 2025 9:24:23 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:23.690628200Z operation=/ a=15.00 b=29.00 result=0.52
+Apr 20, 2025 9:24:23 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:23.731075300Z operation=/ a=55.00 b=24.00 result=2.29
+Apr 20, 2025 9:24:24 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:24.760522Z operation=- a=99.00 b=47.00 result=52.00
+Apr 20, 2025 9:24:24 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:24.778272900Z operation=- a=22.00 b=91.00 result=-69.00
+Apr 20, 2025 9:24:25 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:25.208095Z operation=- a=100.00 b=28.00 result=72.00
+Apr 20, 2025 9:24:25 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:25.208095Z operation=- a=47.00 b=53.00 result=-6.00
+Apr 20, 2025 9:24:25 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:25.220496600Z operation=- a=16.00 b=92.00 result=-76.00
+Apr 20, 2025 9:24:25 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:25.220496600Z operation=- a=89.00 b=71.00 result=18.00
+Apr 20, 2025 9:24:25 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:25.223025Z operation=- a=38.00 b=75.00 result=-37.00
+Apr 20, 2025 9:24:25 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:25.222019400Z operation=- a=30.00 b=55.00 result=-25.00
+Apr 20, 2025 9:24:25 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:25.267005400Z operation=- a=82.00 b=18.00 result=64.00
+Apr 20, 2025 9:24:25 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:25.558470700Z operation=- a=36.00 b=4.00 result=32.00
+Apr 20, 2025 9:24:25 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:25.898199100Z operation=/ a=58.00 b=70.00 result=0.83
+Apr 20, 2025 9:24:25 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:25.902029700Z operation=/ a=78.00 b=58.00 result=1.34
+Apr 20, 2025 9:24:25 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:25.976309300Z operation=/ a=28.00 b=21.00 result=1.33
+Apr 20, 2025 9:24:25 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:25.982815900Z operation=/ a=68.00 b=42.00 result=1.62
+Apr 20, 2025 9:24:25 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:25.986121100Z operation=/ a=14.00 b=57.00 result=0.25
+Apr 20, 2025 9:24:25 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:25.988871600Z operation=/ a=81.00 b=50.00 result=1.62
+Apr 20, 2025 9:24:26 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:26.001968Z operation=/ a=21.00 b=70.00 result=0.30
+Apr 20, 2025 9:24:26 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:26.001968Z operation=/ a=37.00 b=22.00 result=1.68
+Apr 20, 2025 9:24:26 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:26.014057Z operation=/ a=34.00 b=66.00 result=0.52
+Apr 20, 2025 9:24:26 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:24:26.154578800Z operation=/ a=58.00 b=23.00 result=2.52
+Apr 20, 2025 9:46:50 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:46:50.281260800Z operation=- a=10.00 b=10.00 result=0.00
+Apr 20, 2025 9:46:50 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:46:50.279251900Z operation=- a=95.00 b=70.00 result=25.00
+Apr 20, 2025 9:46:50 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:46:50.279251900Z operation=- a=62.00 b=34.00 result=28.00
+Apr 20, 2025 9:46:50 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:46:50.459318900Z operation=- a=22.00 b=1.00 result=21.00
+Apr 20, 2025 9:46:50 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:46:50.568391800Z operation=/ a=45.00 b=5.00 result=9.00
+Apr 20, 2025 9:46:50 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:46:50.574446700Z operation=/ a=25.00 b=55.00 result=0.45
+Apr 20, 2025 9:46:50 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:46:50.576448700Z operation=/ a=63.00 b=79.00 result=0.80
+Apr 20, 2025 9:46:50 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:46:50.656379100Z operation=/ a=19.00 b=25.00 result=0.76
+Apr 20, 2025 9:46:50 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:46:50.752119600Z operation=- a=16.00 b=24.00 result=-8.00
+Apr 20, 2025 9:46:51 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:46:51.117438Z operation=- a=4.00 b=2.00 result=2.00
+Apr 20, 2025 9:46:51 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:46:51.216160600Z operation=- a=4.00 b=87.00 result=-83.00
+Apr 20, 2025 9:46:51 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:46:51.264078Z operation=/ a=94.00 b=5.00 result=18.80
+Apr 20, 2025 9:46:51 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:46:51.316756100Z operation=- a=74.00 b=97.00 result=-23.00
+Apr 20, 2025 9:46:51 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:46:51.390825800Z operation=- a=55.00 b=80.00 result=-25.00
+Apr 20, 2025 9:46:51 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:46:51.390825800Z operation=- a=22.00 b=91.00 result=-69.00
+Apr 20, 2025 9:46:51 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:46:51.440241800Z operation=- a=77.00 b=50.00 result=27.00
+Apr 20, 2025 9:46:53 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:46:53.333293600Z operation=/ a=15.00 b=67.00 result=0.22
+Apr 20, 2025 9:47:00 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:00.605278100Z operation=- a=77.00 b=80.00 result=-3.00
+Apr 20, 2025 9:47:00 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:00.914336500Z operation=- a=73.00 b=29.00 result=44.00
+Apr 20, 2025 9:47:01 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:01.134514600Z operation=- a=68.00 b=26.00 result=42.00
+Apr 20, 2025 9:47:01 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:01.409211400Z operation=/ a=77.00 b=53.00 result=1.45
+Apr 20, 2025 9:47:03 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:03.251704Z operation=/ a=72.00 b=77.00 result=0.94
+Apr 20, 2025 9:47:03 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:03.935115600Z operation=/ a=49.00 b=36.00 result=1.36
+Apr 20, 2025 9:47:05 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:05.865700Z operation=/ a=34.00 b=88.00 result=0.39
+Apr 20, 2025 9:47:07 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:07.216961200Z operation=/ a=51.00 b=9.00 result=5.67
+Apr 20, 2025 9:47:12 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:12.672032700Z operation=- a=36.00 b=60.00 result=-24.00
+Apr 20, 2025 9:47:12 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:12.671022300Z operation=/ a=31.00 b=83.00 result=0.37
+Apr 20, 2025 9:47:12 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:12.925226500Z operation=/ a=87.00 b=35.00 result=2.49
+Apr 20, 2025 9:47:13 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:13.018490200Z operation=/ a=91.00 b=63.00 result=1.44
+Apr 20, 2025 9:47:14 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:14.642965700Z operation=- a=24.00 b=63.00 result=-39.00
+Apr 20, 2025 9:47:14 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:14.932138900Z operation=/ a=41.00 b=55.00 result=0.75
+Apr 20, 2025 9:47:14 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:14.994855400Z operation=- a=51.00 b=3.00 result=48.00
+Apr 20, 2025 9:47:15 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:15.000905700Z operation=- a=23.00 b=61.00 result=-38.00
+Apr 20, 2025 9:47:15 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:15.003916800Z operation=- a=65.00 b=62.00 result=3.00
+Apr 20, 2025 9:47:15 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:15.049645500Z operation=- a=46.00 b=54.00 result=-8.00
+Apr 20, 2025 9:47:15 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:15.052165600Z operation=- a=27.00 b=9.00 result=18.00
+Apr 20, 2025 9:47:15 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:15.155773500Z operation=/ a=4.00 b=55.00 result=0.07
+Apr 20, 2025 9:47:15 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:15.197840300Z operation=- a=41.00 b=86.00 result=-45.00
+Apr 20, 2025 9:47:15 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:15.227362100Z operation=- a=3.00 b=4.00 result=-1.00
+Apr 20, 2025 9:47:15 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:15.258361800Z operation=- a=87.00 b=56.00 result=31.00
+Apr 20, 2025 9:47:15 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:15.309707200Z operation=/ a=20.00 b=5.00 result=4.00
+Apr 20, 2025 9:47:15 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:15.319719200Z operation=/ a=54.00 b=77.00 result=0.70
+Apr 20, 2025 9:47:15 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:15.325718700Z operation=/ a=8.00 b=77.00 result=0.10
+Apr 20, 2025 9:47:15 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:15.348718700Z operation=/ a=32.00 b=44.00 result=0.73
+Apr 20, 2025 9:47:15 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:15.367684200Z operation=/ a=58.00 b=85.00 result=0.68
+Apr 20, 2025 9:47:15 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:15.469958Z operation=/ a=49.00 b=41.00 result=1.20
+Apr 20, 2025 9:47:15 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:15.487996600Z operation=- a=65.00 b=37.00 result=28.00
+Apr 20, 2025 9:47:15 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:15.496674Z operation=/ a=98.00 b=96.00 result=1.02
+Apr 20, 2025 9:47:15 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:15.504714800Z operation=/ a=81.00 b=31.00 result=2.61
+Apr 20, 2025 9:47:15 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:15.633509600Z operation=- a=19.00 b=68.00 result=-49.00
+Apr 20, 2025 9:47:15 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:15.800882Z operation=/ a=76.00 b=62.00 result=1.23
+Apr 20, 2025 9:47:15 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:15.987961400Z operation=- a=33.00 b=56.00 result=-23.00
+Apr 20, 2025 9:47:16 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:16.161489500Z operation=- a=52.00 b=44.00 result=8.00
+Apr 20, 2025 9:47:16 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:16.174070500Z operation=- a=18.00 b=98.00 result=-80.00
+Apr 20, 2025 9:47:16 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:16.188603300Z operation=- a=98.00 b=19.00 result=79.00
+Apr 20, 2025 9:47:16 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:16.279649800Z operation=- a=65.00 b=94.00 result=-29.00
+Apr 20, 2025 9:47:16 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:16.295286900Z operation=/ a=63.00 b=13.00 result=4.85
+Apr 20, 2025 9:47:16 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:16.308280300Z operation=- a=31.00 b=93.00 result=-62.00
+Apr 20, 2025 9:47:16 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:16.334658300Z operation=/ a=51.00 b=53.00 result=0.96
+Apr 20, 2025 9:47:16 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:16.362361100Z operation=- a=10.00 b=84.00 result=-74.00
+Apr 20, 2025 9:47:16 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:16.364363100Z operation=/ a=82.00 b=5.00 result=16.40
+Apr 20, 2025 9:47:16 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:16.380885600Z operation=- a=37.00 b=38.00 result=-1.00
+Apr 20, 2025 9:47:16 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:16.416422Z operation=/ a=5.00 b=99.00 result=0.05
+Apr 20, 2025 9:47:16 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:16.458423800Z operation=/ a=18.00 b=83.00 result=0.22
+Apr 20, 2025 9:47:16 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:16.519843400Z operation=/ a=8.00 b=2.00 result=4.00
+Apr 20, 2025 9:47:16 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:16.546726500Z operation=/ a=53.00 b=10.00 result=5.30
+Apr 20, 2025 9:47:16 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:16.576838100Z operation=- a=66.00 b=35.00 result=31.00
+Apr 20, 2025 9:47:16 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:16.580860600Z operation=/ a=80.00 b=84.00 result=0.95
+Apr 20, 2025 9:47:16 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:16.632779800Z operation=/ a=50.00 b=45.00 result=1.11
+Apr 20, 2025 9:47:16 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:16.753127Z operation=/ a=50.00 b=36.00 result=1.39
+Apr 20, 2025 9:47:16 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:16.760126900Z operation=- a=85.00 b=53.00 result=32.00
+Apr 20, 2025 9:47:16 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:16.788126900Z operation=- a=46.00 b=6.00 result=40.00
+Apr 20, 2025 9:47:16 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:16.797407100Z operation=- a=48.00 b=90.00 result=-42.00
+Apr 20, 2025 9:47:16 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:16.802413600Z operation=- a=69.00 b=52.00 result=17.00
+Apr 20, 2025 9:47:16 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:16.875271900Z operation=- a=95.00 b=3.00 result=92.00
+Apr 20, 2025 9:47:16 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:16.895467700Z operation=- a=70.00 b=2.00 result=68.00
+Apr 20, 2025 9:47:16 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:16.933938400Z operation=- a=25.00 b=24.00 result=1.00
+Apr 20, 2025 9:47:16 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:16.933938400Z operation=/ a=24.00 b=73.00 result=0.33
+Apr 20, 2025 9:47:16 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:16.947936300Z operation=- a=20.00 b=92.00 result=-72.00
+Apr 20, 2025 9:47:16 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:16.947936300Z operation=/ a=96.00 b=85.00 result=1.13
+Apr 20, 2025 9:47:17 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:17.048082200Z operation=/ a=52.00 b=13.00 result=4.00
+Apr 20, 2025 9:47:17 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:17.062085900Z operation=/ a=15.00 b=91.00 result=0.16
+Apr 20, 2025 9:47:17 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:17.125465300Z operation=- a=50.00 b=70.00 result=-20.00
+Apr 20, 2025 9:47:17 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:17.136481300Z operation=- a=83.00 b=94.00 result=-11.00
+Apr 20, 2025 9:47:17 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:17.141463400Z operation=/ a=67.00 b=44.00 result=1.52
+Apr 20, 2025 9:47:17 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:17.197934700Z operation=/ a=43.00 b=71.00 result=0.61
+Apr 20, 2025 9:47:17 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:17.213460400Z operation=/ a=73.00 b=39.00 result=1.87
+Apr 20, 2025 9:47:17 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:17.292452600Z operation=/ a=20.00 b=46.00 result=0.43
+Apr 20, 2025 9:47:17 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:17.300582500Z operation=/ a=66.00 b=96.00 result=0.69
+Apr 20, 2025 9:47:17 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:17.308164900Z operation=/ a=100.00 b=53.00 result=1.89
+Apr 20, 2025 9:47:17 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:17.336867900Z operation=- a=5.00 b=94.00 result=-89.00
+Apr 20, 2025 9:47:17 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:17.388722900Z operation=- a=70.00 b=85.00 result=-15.00
+Apr 20, 2025 9:47:17 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:17.404220200Z operation=- a=94.00 b=59.00 result=35.00
+Apr 20, 2025 9:47:17 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:17.451953200Z operation=/ a=7.00 b=96.00 result=0.07
+Apr 20, 2025 9:47:17 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:17.492348100Z operation=- a=99.00 b=4.00 result=95.00
+Apr 20, 2025 9:47:17 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:17.501361300Z operation=/ a=4.00 b=39.00 result=0.10
+Apr 20, 2025 9:47:17 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:17.509370600Z operation=/ a=50.00 b=40.00 result=1.25
+Apr 20, 2025 9:47:17 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:17.516901400Z operation=- a=64.00 b=15.00 result=49.00
+Apr 20, 2025 9:47:17 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:17.563093200Z operation=/ a=83.00 b=16.00 result=5.19
+Apr 20, 2025 9:47:17 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:47:17.570613200Z operation=/ a=35.00 b=51.00 result=0.69
+Apr 20, 2025 9:50:59 PM calculatorApp lambda$main$0
+SEVERE: Error occurred: Simulated crash in the works!
+java.lang.RuntimeException: Simulated crash in the works!
+	at calculatorApp.lambda$main$0(calculatorApp.java:34)
+	at spark.RouteImpl$1.handle(RouteImpl.java:72)
+	at spark.http.matching.Routes.execute(Routes.java:61)
+	at spark.http.matching.MatcherFilter.doFilter(MatcherFilter.java:134)
+	at spark.embeddedserver.jetty.JettyHandler.doHandle(JettyHandler.java:50)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1598)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)
+	at org.eclipse.jetty.server.Server.handle(Server.java:516)
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:487)
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:732)
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:479)
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:277)
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311)
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105)
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:883)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:1034)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+
+Apr 20, 2025 9:51:15 PM calculatorApp lambda$main$0
+SEVERE: Error occurred: Simulated crash in the works!
+java.lang.RuntimeException: Simulated crash in the works!
+	at calculatorApp.lambda$main$0(calculatorApp.java:34)
+	at spark.RouteImpl$1.handle(RouteImpl.java:72)
+	at spark.http.matching.Routes.execute(Routes.java:61)
+	at spark.http.matching.MatcherFilter.doFilter(MatcherFilter.java:134)
+	at spark.embeddedserver.jetty.JettyHandler.doHandle(JettyHandler.java:50)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1598)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)
+	at org.eclipse.jetty.server.Server.handle(Server.java:516)
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:487)
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:732)
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:479)
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:277)
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311)
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105)
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:338)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:315)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:173)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.produce(EatWhatYouKill.java:137)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:883)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:1034)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+
+Apr 20, 2025 9:53:28 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:28.037287100Z operation=- a=88.00 b=62.00 result=26.00
+Apr 20, 2025 9:53:28 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:28.023261600Z operation=- a=17.00 b=47.00 result=-30.00
+Apr 20, 2025 9:53:28 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:28.594492800Z operation=- a=73.00 b=6.00 result=67.00
+Apr 20, 2025 9:53:28 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:28.841441Z operation=- a=55.00 b=89.00 result=-34.00
+Apr 20, 2025 9:53:29 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:29.111733800Z operation=/ a=35.00 b=40.00 result=0.88
+Apr 20, 2025 9:53:29 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:29.116154600Z operation=/ a=74.00 b=45.00 result=1.64
+Apr 20, 2025 9:53:29 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:29.116154600Z operation=- a=78.00 b=18.00 result=60.00
+Apr 20, 2025 9:53:29 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:29.153632100Z operation=/ a=82.00 b=79.00 result=1.04
+Apr 20, 2025 9:53:29 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:29.309182100Z operation=/ a=60.00 b=84.00 result=0.71
+Apr 20, 2025 9:53:29 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:29.328088500Z operation=- a=98.00 b=29.00 result=69.00
+Apr 20, 2025 9:53:29 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:29.625763600Z operation=- a=28.00 b=72.00 result=-44.00
+Apr 20, 2025 9:53:30 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:30.365912Z operation=- a=76.00 b=37.00 result=39.00
+Apr 20, 2025 9:53:30 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:30.757261700Z operation=- a=2.00 b=63.00 result=-61.00
+Apr 20, 2025 9:53:30 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:30.819263900Z operation=- a=58.00 b=24.00 result=34.00
+Apr 20, 2025 9:53:30 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:30.967012800Z operation=/ a=10.00 b=64.00 result=0.16
+Apr 20, 2025 9:53:32 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:32.987412800Z operation=/ a=44.00 b=9.00 result=4.89
+Apr 20, 2025 9:53:33 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:33.172553300Z operation=/ a=53.00 b=100.00 result=0.53
+Apr 20, 2025 9:53:33 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:33.241475600Z operation=/ a=76.00 b=31.00 result=2.45
+Apr 20, 2025 9:53:33 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:33.244962600Z operation=- a=29.00 b=85.00 result=-56.00
+Apr 20, 2025 9:53:33 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:33.422809500Z operation=/ a=69.00 b=24.00 result=2.88
+Apr 20, 2025 9:53:33 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:33.517936800Z operation=/ a=97.00 b=71.00 result=1.37
+Apr 20, 2025 9:53:33 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:33.572443200Z operation=- a=39.00 b=89.00 result=-50.00
+Apr 20, 2025 9:53:35 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:35.027213300Z operation=- a=66.00 b=92.00 result=-26.00
+Apr 20, 2025 9:53:35 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:35.102152100Z operation=- a=72.00 b=10.00 result=62.00
+Apr 20, 2025 9:53:37 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:37.497627800Z operation=/ a=76.00 b=81.00 result=0.94
+Apr 20, 2025 9:53:38 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:38.032788100Z operation=/ a=29.00 b=79.00 result=0.37
+Apr 20, 2025 9:53:39 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:39.223643400Z operation=- a=22.00 b=46.00 result=-24.00
+Apr 20, 2025 9:53:39 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:39.249975200Z operation=/ a=92.00 b=6.00 result=15.33
+Apr 20, 2025 9:53:39 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:39.261322400Z operation=/ a=70.00 b=17.00 result=4.12
+Apr 20, 2025 9:53:39 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:39.309340200Z operation=- a=40.00 b=11.00 result=29.00
+Apr 20, 2025 9:53:39 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:39.345219100Z operation=- a=42.00 b=55.00 result=-13.00
+Apr 20, 2025 9:53:39 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:39.357972500Z operation=- a=28.00 b=87.00 result=-59.00
+Apr 20, 2025 9:53:39 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:39.364926900Z operation=- a=42.00 b=67.00 result=-25.00
+Apr 20, 2025 9:53:39 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:39.380451400Z operation=/ a=43.00 b=62.00 result=0.69
+Apr 20, 2025 9:53:39 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:39.382690900Z operation=- a=39.00 b=38.00 result=1.00
+Apr 20, 2025 9:53:39 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:39.455784200Z operation=/ a=5.00 b=26.00 result=0.19
+Apr 20, 2025 9:53:39 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:39.491656300Z operation=- a=25.00 b=68.00 result=-43.00
+Apr 20, 2025 9:53:39 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:39.521214100Z operation=/ a=100.00 b=46.00 result=2.17
+Apr 20, 2025 9:53:39 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:39.533375400Z operation=/ a=5.00 b=70.00 result=0.07
+Apr 20, 2025 9:53:39 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:39.542841400Z operation=- a=4.00 b=82.00 result=-78.00
+Apr 20, 2025 9:53:39 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:39.552481800Z operation=/ a=10.00 b=81.00 result=0.12
+Apr 20, 2025 9:53:39 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:39.556999500Z operation=/ a=58.00 b=19.00 result=3.05
+Apr 20, 2025 9:53:39 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:39.573265800Z operation=- a=85.00 b=53.00 result=32.00
+Apr 20, 2025 9:53:39 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:39.588133400Z operation=- a=35.00 b=77.00 result=-42.00
+Apr 20, 2025 9:53:39 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:39.669205500Z operation=/ a=23.00 b=75.00 result=0.31
+Apr 20, 2025 9:53:39 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:39.738961200Z operation=/ a=8.00 b=36.00 result=0.22
+Apr 20, 2025 9:53:39 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:39.744302900Z operation=- a=59.00 b=81.00 result=-22.00
+Apr 20, 2025 9:53:39 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:39.932600700Z operation=/ a=55.00 b=72.00 result=0.76
+Apr 20, 2025 9:53:39 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:39.973725400Z operation=/ a=38.00 b=74.00 result=0.51
+Apr 20, 2025 9:53:39 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:39.994982700Z operation=- a=70.00 b=35.00 result=35.00
+Apr 20, 2025 9:53:40 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:40.064680900Z operation=- a=79.00 b=10.00 result=69.00
+Apr 20, 2025 9:53:40 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:40.112271Z operation=/ a=22.00 b=38.00 result=0.58
+Apr 20, 2025 9:53:40 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:40.139926600Z operation=- a=69.00 b=23.00 result=46.00
+Apr 20, 2025 9:53:40 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:40.168211500Z operation=- a=64.00 b=44.00 result=20.00
+Apr 20, 2025 9:53:40 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:40.198228900Z operation=- a=88.00 b=100.00 result=-12.00
+Apr 20, 2025 9:53:40 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:40.230334800Z operation=/ a=52.00 b=91.00 result=0.57
+Apr 20, 2025 9:53:40 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:40.241510400Z operation=- a=50.00 b=95.00 result=-45.00
+Apr 20, 2025 9:53:40 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:40.259692200Z operation=/ a=54.00 b=31.00 result=1.74
+Apr 20, 2025 9:53:40 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:40.279122400Z operation=- a=36.00 b=5.00 result=31.00
+Apr 20, 2025 9:53:40 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:40.299924400Z operation=/ a=51.00 b=59.00 result=0.86
+Apr 20, 2025 9:53:40 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:40.340246Z operation=/ a=13.00 b=93.00 result=0.14
+Apr 20, 2025 9:53:40 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:40.349456300Z operation=/ a=55.00 b=13.00 result=4.23
+Apr 20, 2025 9:53:40 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:40.353519400Z operation=- a=93.00 b=99.00 result=-6.00
+Apr 20, 2025 9:53:40 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:40.373083400Z operation=- a=62.00 b=74.00 result=-12.00
+Apr 20, 2025 9:53:40 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:40.380338600Z operation=/ a=89.00 b=2.00 result=44.50
+Apr 20, 2025 9:53:40 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:40.413831900Z operation=- a=86.00 b=31.00 result=55.00
+Apr 20, 2025 9:53:40 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:40.464827600Z operation=/ a=58.00 b=89.00 result=0.65
+Apr 20, 2025 9:53:40 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:40.625800400Z operation=- a=78.00 b=90.00 result=-12.00
+Apr 20, 2025 9:53:40 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:40.687156600Z operation=/ a=70.00 b=21.00 result=3.33
+Apr 20, 2025 9:53:40 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:40.730671300Z operation=/ a=64.00 b=40.00 result=1.60
+Apr 20, 2025 9:53:40 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:40.855652400Z operation=- a=49.00 b=7.00 result=42.00
+Apr 20, 2025 9:53:40 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:40.870739200Z operation=/ a=36.00 b=95.00 result=0.38
+Apr 20, 2025 9:53:40 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:40.994624900Z operation=- a=43.00 b=21.00 result=22.00
+Apr 20, 2025 9:53:41 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:41.054158500Z operation=- a=64.00 b=48.00 result=16.00
+Apr 20, 2025 9:53:41 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:41.062820100Z operation=- a=95.00 b=49.00 result=46.00
+Apr 20, 2025 9:53:41 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:41.072032500Z operation=- a=44.00 b=12.00 result=32.00
+Apr 20, 2025 9:53:41 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:41.075114700Z operation=/ a=26.00 b=92.00 result=0.28
+Apr 20, 2025 9:53:41 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:41.168057100Z operation=/ a=12.00 b=87.00 result=0.14
+Apr 20, 2025 9:53:41 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:41.198383900Z operation=/ a=16.00 b=81.00 result=0.20
+Apr 20, 2025 9:53:41 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:41.237033700Z operation=- a=35.00 b=20.00 result=15.00
+Apr 20, 2025 9:53:41 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:41.257189100Z operation=/ a=81.00 b=41.00 result=1.98
+Apr 20, 2025 9:53:41 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:41.259206Z operation=/ a=100.00 b=58.00 result=1.72
+Apr 20, 2025 9:53:41 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:41.281966700Z operation=/ a=71.00 b=69.00 result=1.03
+Apr 20, 2025 9:53:41 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:41.284033100Z operation=- a=4.00 b=68.00 result=-64.00
+Apr 20, 2025 9:53:41 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:41.341277200Z operation=- a=80.00 b=26.00 result=54.00
+Apr 20, 2025 9:53:41 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:41.407523500Z operation=- a=60.00 b=46.00 result=14.00
+Apr 20, 2025 9:53:41 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:41.505468100Z operation=/ a=76.00 b=7.00 result=10.86
+Apr 20, 2025 9:53:41 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:41.540816300Z operation=/ a=100.00 b=14.00 result=7.14
+Apr 20, 2025 9:53:41 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:41.584462100Z operation=- a=85.00 b=18.00 result=67.00
+Apr 20, 2025 9:53:41 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:41.676338800Z operation=/ a=87.00 b=77.00 result=1.13
+Apr 20, 2025 9:53:41 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:41.681978800Z operation=- a=41.00 b=83.00 result=-42.00
+Apr 20, 2025 9:53:41 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:41.683992Z operation=/ a=1.00 b=63.00 result=0.02
+Apr 20, 2025 9:53:41 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:41.745878900Z operation=- a=66.00 b=43.00 result=23.00
+Apr 20, 2025 9:53:41 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:41.795954200Z operation=- a=40.00 b=63.00 result=-23.00
+Apr 20, 2025 9:53:41 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:41.834739600Z operation=- a=8.00 b=100.00 result=-92.00
+Apr 20, 2025 9:53:41 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:41.870031500Z operation=/ a=41.00 b=16.00 result=2.56
+Apr 20, 2025 9:53:41 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:41.890132900Z operation=/ a=62.00 b=45.00 result=1.38
+Apr 20, 2025 9:53:41 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:41.944276100Z operation=/ a=2.00 b=66.00 result=0.03
+Apr 20, 2025 9:53:41 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:41.976985300Z operation=/ a=76.00 b=68.00 result=1.12
+Apr 20, 2025 9:53:42 PM calculatorApp lambda$main$0
+INFO: region=us-west userId=guest ip=127.0.0.1 timestamp=2025-04-21T01:53:42.025527Z operation=/ a=76.00 b=87.00 result=0.87
+Apr 20, 2025 9:55:56 PM calculatorApp lambda$main$0
+SEVERE: Error occurred: Simulated crash in the works!
+java.lang.RuntimeException: Simulated crash in the works!
+	at calculatorApp.lambda$main$0(calculatorApp.java:34)
+	at spark.RouteImpl$1.handle(RouteImpl.java:72)
+	at spark.http.matching.Routes.execute(Routes.java:61)
+	at spark.http.matching.MatcherFilter.doFilter(MatcherFilter.java:134)
+	at spark.embeddedserver.jetty.JettyHandler.doHandle(JettyHandler.java:50)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1598)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)
+	at org.eclipse.jetty.server.Server.handle(Server.java:516)
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:487)
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:732)
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:479)
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:277)
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311)
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105)
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:883)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:1034)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+
+Apr 20, 2025 9:56:46 PM calculatorApp lambda$main$0
+SEVERE: Error occurred: Simulated crash in the works!
+java.lang.RuntimeException: Simulated crash in the works!
+	at calculatorApp.lambda$main$0(calculatorApp.java:34)
+	at spark.RouteImpl$1.handle(RouteImpl.java:72)
+	at spark.http.matching.Routes.execute(Routes.java:61)
+	at spark.http.matching.MatcherFilter.doFilter(MatcherFilter.java:134)
+	at spark.embeddedserver.jetty.JettyHandler.doHandle(JettyHandler.java:50)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1598)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)
+	at org.eclipse.jetty.server.Server.handle(Server.java:516)
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:487)
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:732)
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:479)
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:277)
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311)
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105)
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:338)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:315)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:173)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:131)
+	at org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:409)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:883)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:1034)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+
+Apr 20, 2025 10:00:01 PM calculatorApp lambda$main$0
+SEVERE: Error occurred: Simulated crash in the works!
+java.lang.RuntimeException: Simulated crash in the works!
+	at calculatorApp.lambda$main$0(calculatorApp.java:34)
+	at spark.RouteImpl$1.handle(RouteImpl.java:72)
+	at spark.http.matching.Routes.execute(Routes.java:61)
+	at spark.http.matching.MatcherFilter.doFilter(MatcherFilter.java:134)
+	at spark.embeddedserver.jetty.JettyHandler.doHandle(JettyHandler.java:50)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1598)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)
+	at org.eclipse.jetty.server.Server.handle(Server.java:516)
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:487)
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:732)
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:479)
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:277)
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311)
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105)
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:883)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:1034)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+
+Apr 20, 2025 10:01:40 PM calculatorApp lambda$main$0
+SEVERE: Error occurred: Simulated crash in the works!
+java.lang.RuntimeException: Simulated crash in the works!
+	at calculatorApp.lambda$main$0(calculatorApp.java:34)
+	at spark.RouteImpl$1.handle(RouteImpl.java:72)
+	at spark.http.matching.Routes.execute(Routes.java:61)
+	at spark.http.matching.MatcherFilter.doFilter(MatcherFilter.java:134)
+	at spark.embeddedserver.jetty.JettyHandler.doHandle(JettyHandler.java:50)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1598)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)
+	at org.eclipse.jetty.server.Server.handle(Server.java:516)
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:487)
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:732)
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:479)
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:277)
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311)
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105)
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:883)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:1034)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+
+Apr 20, 2025 10:02:28 PM calculatorApp lambda$main$0
+SEVERE: Error occurred: Simulated crash in the works!
+java.lang.RuntimeException: Simulated crash in the works!
+	at calculatorApp.lambda$main$0(calculatorApp.java:34)
+	at spark.RouteImpl$1.handle(RouteImpl.java:72)
+	at spark.http.matching.Routes.execute(Routes.java:61)
+	at spark.http.matching.MatcherFilter.doFilter(MatcherFilter.java:134)
+	at spark.embeddedserver.jetty.JettyHandler.doHandle(JettyHandler.java:50)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1598)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)
+	at org.eclipse.jetty.server.Server.handle(Server.java:516)
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:487)
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:732)
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:479)
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:277)
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311)
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105)
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:338)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:315)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:173)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.produce(EatWhatYouKill.java:137)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:883)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:1034)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+
+Apr 20, 2025 10:02:37 PM calculatorApp lambda$main$0
+SEVERE: Error occurred: Simulated crash in the works!
+java.lang.RuntimeException: Simulated crash in the works!
+	at calculatorApp.lambda$main$0(calculatorApp.java:34)
+	at spark.RouteImpl$1.handle(RouteImpl.java:72)
+	at spark.http.matching.Routes.execute(Routes.java:61)
+	at spark.http.matching.MatcherFilter.doFilter(MatcherFilter.java:134)
+	at spark.embeddedserver.jetty.JettyHandler.doHandle(JettyHandler.java:50)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1598)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)
+	at org.eclipse.jetty.server.Server.handle(Server.java:516)
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:487)
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:732)
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:479)
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:277)
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311)
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105)
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:338)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:315)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:173)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.produce(EatWhatYouKill.java:137)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:883)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:1034)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+
+Apr 20, 2025 10:03:13 PM calculatorApp lambda$main$0
+SEVERE: Error occurred: Simulated crash in the works!
+java.lang.RuntimeException: Simulated crash in the works!
+	at calculatorApp.lambda$main$0(calculatorApp.java:34)
+	at spark.RouteImpl$1.handle(RouteImpl.java:72)
+	at spark.http.matching.Routes.execute(Routes.java:61)
+	at spark.http.matching.MatcherFilter.doFilter(MatcherFilter.java:134)
+	at spark.embeddedserver.jetty.JettyHandler.doHandle(JettyHandler.java:50)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1598)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)
+	at org.eclipse.jetty.server.Server.handle(Server.java:516)
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:487)
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:732)
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:479)
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:277)
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311)
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105)
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:338)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:315)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:173)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.produce(EatWhatYouKill.java:137)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:883)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:1034)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+
